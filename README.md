@@ -1,20 +1,42 @@
-Análise de Acidentes de Trânsito
-Projeto de análise de dados utilizando Python para identificar padrões de acidentes de trânsito através de visualizações e análise geográfica.
-Tecnologias utilizadas
-Python
-Pandas
-Matplotlib
-Folium
+# 🚦 Análise de Acidentes de Trânsito
 
-Análises realizadas
-O projeto realiza diferentes tipos de análise de dados:
-Limpeza e tratamento dos dados
-Análise exploratória
-Criação de heatmap geográfico para visualizar regiões com maior concentração de acidentes
-Clusterização para identificar agrupamentos de ocorrências
-Visualizações com Matplotlib para análise estatística dos dados
+Projeto de **análise de dados com Python** para identificar padrões e concentrações de acidentes de trânsito por meio de **visualizações estatísticas e análise geográfica**.
 
-Exemplo de visualização
-Mapa de calor mostrando a concentração de acidentes:
-Objetivo
-O objetivo do projeto é explorar dados de acidentes e identificar padrões espaciais que possam ajudar na compreensão de áreas com maior risco.
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Python**
+- **Pandas** — manipulação e tratamento de dados
+- **Matplotlib** — visualização de dados
+- **Folium** — criação de mapas interativos e heatmaps
+
+---
+
+## 📊 Análises Realizadas
+
+O projeto inclui diferentes etapas de análise de dados:
+
+- 🔹 **Limpeza e tratamento dos dados**
+- 🔹 **Análise exploratória (EDA)**
+- 🔹 **Criação de heatmap geográfico** para identificar regiões com maior concentração de acidentes
+- 🔹 **Clusterização** para detectar agrupamentos de ocorrências
+- 🔹 **Visualizações com Matplotlib** para análise estatística
+
+---
+
+## 🗺️ Exemplo de Visualização
+
+Mapa de calor demonstrando áreas com maior concentração de acidentes.
+
+*(adicione aqui a imagem do seu mapa ou gráfico)*
+
+---
+
+## 🎯 Objetivo
+
+Explorar dados de acidentes de trânsito para **identificar padrões espaciais e estatísticos**, auxiliando na compreensão de **áreas com maior risco** e contribuindo para análises que podem apoiar decisões relacionadas à mobilidade urbana e segurança no trânsito.
+
+---
+
+## 📁 Estrutura do Projeto
