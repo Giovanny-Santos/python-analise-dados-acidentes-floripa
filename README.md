@@ -41,10 +41,12 @@ Explorar dados de acidentes de trânsito para **identificar padrões espaciais e
 
 ## 📁 Estrutura do Projeto
 python-analise-acidentes-floripa/
-│
-├── Analise_Dashboard.ipynb # Notebook com a análise de dados
-├── Grafico.png # Visualização estatística com Matplotlib
-├── MapadeCalor.png # Heatmap geográfico dos acidentes
-├── MapadeCluster.png # Visualização de clusterização
-├── .gitattributes
-└── README.md
+
+### Gráfico estatístico
+![Gráfico](Grafico.png)
+
+### Mapa de Calor
+![Heatmap](MapadeCalor.png)
+
+### Cluster de Acidentes
+![Cluster](MapadeCluster.png)
