@@ -25,14 +25,6 @@ O projeto inclui diferentes etapas de análise de dados:
 
 ---
 
-## 🗺️ Exemplo de Visualização
-
-Mapa de calor demonstrando áreas com maior concentração de acidentes.
-
-*(adicione aqui a imagem do seu mapa ou gráfico)*
-
----
-
 ## 🎯 Objetivo
 
 Explorar dados de acidentes de trânsito para **identificar padrões espaciais e estatísticos**, auxiliando na compreensão de **áreas com maior risco** e contribuindo para análises que podem apoiar decisões relacionadas à mobilidade urbana e segurança no trânsito.
